@@ -45,6 +45,6 @@ new Vue({
           break
       }
       this.display = this.res
-    }
+          }
   }
 })
